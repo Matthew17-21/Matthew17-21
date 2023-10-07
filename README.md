@@ -1,4 +1,8 @@
 ### Hi there 👋 I'm Matthew
+Welcome to my page!
+
+I'm Matthew, a passionate software engineer currently Living in New York
+
 <!-- TODO add a little `About Me` description here -->
 
 #### 💬 Ask me about...
