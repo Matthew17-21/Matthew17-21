@@ -1,15 +1,19 @@
 ### Hi there 👋 I'm Matthew
 Welcome to my page!
 
-I'm Matthew, a passionate software engineer currently Living in New York
+I'm Matthew, a passionate software engineer currently living in New York. My passion stems from wanting to build the future.
 
-<!-- TODO add a little `About Me` description here -->
+I've done a lot of work, specifically building desktop apps and backends, using Python, Go, TypeScript and SQL databases.
+
+Just trying to learn and grow as a developer. 
+
 
 #### 💬 Ask me about...
 The contributions I've made to [Monumental Shopping](https://github.com/Monumental-Shopping) or all the cool projects I've built related to sneakers/crypto/tickets!
 
 
 #### 🔭 I’m currently working on ...
+
 #### 👯 I’m looking to collaborate on ...
 Anything and everything! [Just send me a message](#📫-how-to-reach-me).
 #### 📝 Languages and tools:
