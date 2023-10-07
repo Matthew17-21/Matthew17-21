@@ -3,7 +3,7 @@
 ### How to reach me
 <p>
   <a href="mailto:career.matthewlugo@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=email&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br/>
     <a href="https://www.linkedin.com/in/matthew-lugo-4b2437264" target="_blank">
