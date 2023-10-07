@@ -2,6 +2,7 @@
 <!-- TODO add a little `About Me` description here -->
 
 #### 💬 Ask me about...
+The contributions I've made to [Monumental Shopping](https://github.com/Monumental-Shopping) or all the cool projects I've built related to sneakers/crypto/tickets!
 
 
 #### 🔭 I’m currently working on ...
