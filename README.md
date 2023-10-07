@@ -2,7 +2,7 @@
 Welcome to my page!
 
 I'm Matthew, a passionate software engineer currently living in New York. My passion stems from wanting to build technology that is used by people worldwide. <br/>
-I've done a lot of work throughout the years, specifically building desktop apps and backends, using Python, Go, TypeScript and SQL databases. Ask me about them!
+I've done a lot of work throughout the years, specifically building desktop apps and backends, using Python, Go, TypeScript and SQL databases. [Ask me about them!](#💬-ask-me-about)
 
 Love learning and growing as a developer!
 
