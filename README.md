@@ -11,8 +11,8 @@ Love learning and growing as a developer!
 The contributions I've made to:
 - [Monumental Shopping](https://github.com/Monumental-Shopping)
 - [EasyMirror](https://github.com/easymirror)
-- [HypurrSnypurr](https://github.com/easymirror)
-- [watches-fyi](https://github.com/easymirror)
+- [HypurrSnypurr](https://github.com/HypurrSnypurr)
+- [watches-fyi](https://github.com/watches-fyi)
 - Or all the cool projects I've built related to sneakers/crypto/tickets!
 
 
