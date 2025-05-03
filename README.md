@@ -8,7 +8,12 @@ Love learning and growing as a developer!
 
 
 #### 💬 Ask me about...
-The contributions I've made to [Monumental Shopping](https://github.com/Monumental-Shopping) or all the cool projects I've built related to sneakers/crypto/tickets!
+The contributions I've made to:
+- [Monumental Shopping](https://github.com/Monumental-Shopping)
+- [EasyMirror](https://github.com/easymirror)
+- [HypurrSnypurr](https://github.com/HypurrSnypurr)
+- [watches-fyi](https://github.com/watches-fyi)
+- Or all the cool projects I've built related to sneakers/crypto/tickets!
 
 
 #### 👯 I’m looking to collaborate on ...
@@ -31,6 +36,14 @@ Anything and everything! [Just send me a message](#📫-how-to-reach-me).
     <img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
     <img alt="Twilio" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white"/>
     <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+    <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+    <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
 #### 📫 How to reach me
